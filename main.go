@@ -76,7 +76,6 @@ func main() {
 		}
 
 		// err = c.SaveUploadedFile(file, "assets/uploads/"+file.Filename)
-
 		// if err != nil {
 		// 	c.HTML(http.StatusOK, "index.html", gin.H{
 		// 		"error": "Failed to upload image",
